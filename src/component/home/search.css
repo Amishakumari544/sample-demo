@@ -1,0 +1,12 @@
+
+.search-input {
+    border: none;
+  }
+  
+  .search-bar .search-icons {
+    width: 1rem;
+    height: 2rem;
+  }
+  input:focus{
+    outline: none;
+}
